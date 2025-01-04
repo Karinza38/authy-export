@@ -1,4 +1,4 @@
-# authy
+ # authy
 
 
 [![GoDoc](https://godoc.org/github.com/alexzorin/authy?status.svg)](https://godoc.org/github.com/alexzorin/authy)
